@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "gereja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Foto": "<img src=\"D:\\karismol\\wakaf\\street view\\Gereja Narwastu_1.jpg\"width=\"200\"height=\"125\">", "lok_foto1": "D:\\karismol\\wakaf\\street view\\Gereja Narwastu_1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 682922.032597602345049, 9117559.96449469961226 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Foto": "<img src=\"D:\\karismol\\wakaf\\street view\\Masjid Al-Hafez_1.jpg\"width=\"200\"height=\"125\">", "lok_foto1": "D:\\karismol\\wakaf\\street view\\Masjid Al-Hafez_1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 682498.298789943335578, 9116754.912944413721561 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Foto": "<img src=\"D:\\karismol\\wakaf\\street view\\Pura Dwijawarsa_1.jpg\"width=\"200\"height=\"125\">", "lok_foto1": "D:\\karismol\\wakaf\\street view\\Pura Dwijawarsa_1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 683044.878420011606067, 9115871.754341149702668 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Foto": "<img src=\"D:\\karismol\\wakaf\\street view\\Masjid Roudlotul Munibin_1.jpg\"width=\"200\"height=\"125\">", "lok_foto1": "D:\\karismol\\wakaf\\street view\\Masjid Roudlotul Munibin_1.jpg" }, "geometry": { "type": "Point", "coordinates": [ 683890.777684815460816, 9116028.63490922190249 ] } }
+]
+}
